@@ -1,6 +1,6 @@
 ## CRUD
 
-![Изображение](misc/images/CRUD_1.png)
+![Изображение](misc/CRUD_1.png)
 
 
 **CRUD**- операции, котjрые включают в себя 4 функции: **Create** (создание), **Read** (чтение), **Update** (редактирование) и **Delete** (удаление).
@@ -16,7 +16,7 @@
 
 REST API сопоставляет операции CRUD с методами HTTP. 
 
-![2](misc/images/CRUD_2.png)
+![2](misc/CRUD_2.png)
 
 |CRUD Operation	| HTTP Method | Описание |
 |----|-----|-----|
